@@ -22,3 +22,7 @@ target/
 pom.xml.releaseBackup
 release.properties
 zz
+
+# dotnet build artifacts
+csharp/obj/
+csharp/bin/
